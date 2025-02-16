@@ -27,7 +27,7 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone    https://github.com/bilalrai12/Sparkchain.git
+   git clone https://github.com/bilalrai12/Sparkchain.git
    ```
    ```bash
    cd Sparkchain
